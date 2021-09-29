@@ -8,7 +8,7 @@
 	const links = [
 		"https://github.com/Na18k",
 		"https://github.com/Na18k/GridNeon",
-		"https://github.com/Na18k"
+		"https://github.com/vitoryano"
 		"https://google.com"
 	]
 
