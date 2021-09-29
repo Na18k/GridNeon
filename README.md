@@ -7,5 +7,6 @@ Um teste bem bobo que fiz, para usar um pouco do Css :)
 
 
 
-> Projeto Fechado!
-* Feito e finalizado em (12/09/2021)
+> Projeto Fechado! - Feito e finalizado em: (12/09/2021)
+  
+> Projeto aberto novamente em: (29/09/2021)
